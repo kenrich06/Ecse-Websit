@@ -7,7 +7,6 @@ import {
   html,
   css,
   java,
-  mysql,
   git,
   upcoming, // Add this import for the upcoming.png image
   linkedIn,
@@ -59,10 +58,6 @@ const technologies = [
   {
     name: "Java",
     icon: java,
-  },
-  {
-    name: "MySQL",
-    icon: mysql,
   },
   {
     name: "Git",
