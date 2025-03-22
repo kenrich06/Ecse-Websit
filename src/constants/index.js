@@ -108,7 +108,7 @@ const personalInfo = {
   fullName: "Kenrich Coutinho",
   email: "kenrich.coutinho@example.com", // Update with your email
   role: "Computer Engineering",
-  about: `I'm a passionate computer engineering student with a keen interest in software development and emerging technologies. I enjoy solving complex problems and building innovative solutions. Let's connect and create something amazing!`,
+  about: `I'm a passionate computer engineering student with a keen interest in software development and emerging technologies. I enjoy solving complex problems and building innovative solutions. Let's connect and create something amazing! In the Future You can Hire me for these Roles!`,
   projectsIntro: `Stay tuned for exciting projects that showcase my skills and creativity. I'm currently working on some amazing ideas that I can't wait to share with you!`,
 };
 
